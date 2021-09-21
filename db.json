@@ -1,14 +1,14 @@
 [
-    {
-    "id": 1,
-    "user": "nelson",
-    "email": "nelsondbtest.com",
-    "phone": "829-890-2354"
-    },
-    {
-        "id": 1,
-        "user": "nelson",
-        "email": "nelsondbtest.com",
-        "phone": "829-890-2354"
+   { 
+        "posts": [
+            {
+            "id": 1,
+            "title": "Post 1"
+            },
+            {
+            "id": 2,
+            "title": "Post 2"
+            }
+        ]      
     }
 ]
